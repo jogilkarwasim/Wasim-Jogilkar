@@ -1,0 +1,7 @@
+{
+  "name": "Kids Stories",
+  "description": "An interactive app for kids that reads stories aloud, generates unique illustrations for each page, and offers a fun chatbot experience with Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
